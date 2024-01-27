@@ -1,0 +1,238 @@
+
+/* TASK 1 */
+.box {
+    width: 800px;
+    margin: 40px auto;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+
+.ad {
+    width: 350px;
+    border: 1px solid lightgray;
+    padding: 10px;
+    border-radius: 14px;
+    margin: 10px auto;
+    box-shadow: 2px 2px 10px grey;
+
+}
+
+.header {
+    position: relative;
+}
+
+.ad-img {
+    width: 100%;
+    border-radius: 15px;
+
+}
+
+.promot {
+    color: antiquewhite;
+    font-size: small;
+    border: 1px none;
+    background-color: rgb(104, 101, 101);
+    border-radius: 14px;
+    margin-left: 8px;
+    margin-top: 8px;
+    padding: 3px;
+    position: absolute;
+    top: 0;
+
+
+}
+
+.offer {
+    color: white;
+    background-color: blue;
+    margin: 20px 40px 5px 1px;
+    border-bottom-left-radius: 10px;
+    position: absolute;
+    bottom: 10px;
+    padding: 2PX;
+    left:0;
+
+}
+
+.time {
+    margin: 20px 10px 8px 1px;
+    font-size: small;
+    position: absolute;
+    background-color: white;
+    border-radius: 10px;
+    padding: 4px;
+    bottom: 10px;
+    right: 0;
+}
+
+h2 {
+    color: black;
+
+}
+
+h3 {
+    color: rgb(121, 116, 116);
+
+}
+
+.maxs {
+    width: 45px;
+    padding: 2px;
+    border-radius: 30%;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+pre {
+    color: rgb(121, 116, 116);
+}
+/* TASK 2 */
+
+.bali-img{
+        width: 600px;
+        margin: 60px auto;
+        position: relative;
+}
+.img{
+     width: 100%;
+     border-radius: 50px;
+
+}
+
+.heading{
+    position: absolute;
+    bottom: 50%;
+    left:10%;
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.desc{
+    position:absolute;
+    bottom:30%;
+    
+    color: white;
+}
+
+.btn{
+    position: absolute;
+    bottom: 10%;
+    left: 40%;
+    border-radius: 50px;
+    border:none;
+    padding:10px 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+/* TASK 3 */
+.Zomato-card {
+    position: relative;
+    width: 600px;
+    margin: 40px auto;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+.pic {
+
+    width: 100%;
+    border-radius: 8px;
+    box-shadow: 5px 5px 4px grey;
+
+}
+
+.heading2 {
+    position: absolute;
+    top: 20%;
+    bottom:20%;
+    left: 29%;
+    color: rgb(250, 241, 241);
+    width: 200px;
+    
+}
+
+.tag {
+    position: absolute;
+    bottom: 40%;
+    color: white;
+    margin: 80px 20px 120px 120px;
+    font-weight: 350px;
+}
+
+.context-select {
+    font-size: small;
+    height: 18px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    position: absolute;
+    border-style: none;
+    bottom: 56%;
+    left: 75px;
+    margin: 180px 120px 20px 40px;
+}
+
+.select-icon {
+    font-size: smaller;
+    position: absolute;
+    bottom: 56%;
+    right: 75px;
+    margin: 180px 120px 20px 40px;
+}
+
+.context-input {
+    width: 300px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-style: none;
+    position: absolute;
+    bottom: 60%;
+    right: 105px;
+}
+
+
+/* TASK 4 */
+
+.profile{
+        border: 1px solid lightgray;
+        width: 300px;
+        align-items: center;
+        margin: 40px auto;
+        
+       
+}
+
+.profilecard{
+        width: 300px;
+        
+        position: relative;
+        
+
+}
+
+.profilepic{
+        height: 90px;
+        position: absolute;
+        left: 20%;
+        bottom: -50px;
+        border-radius: 50%;
+        border: 4px solid white;
+
+
+
+}
+.parent{
+    width:100%;
+}
+
+.name{
+    margin-top: 50px;
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.clg{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+}
